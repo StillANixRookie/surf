@@ -1,4 +1,6 @@
-# surf - simple webkit-based browser
+![surf](surf.png)
+
+## simple webkit-based browser
 
 surf is a simple Web browser based on WebKit/GTK+.
 
